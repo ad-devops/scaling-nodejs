@@ -14,7 +14,7 @@
 ```
 
 
-- To destroy cluster
+- To destroy app
 ```
   terraform destroy -auto-approve
 ```
