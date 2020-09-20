@@ -14,7 +14,11 @@
 ```
 
 
-- To destroy cluster 
+- To destroy cluster
 ```
   terraform destroy -auto-approve
 ```
+
+## Results
+
+[![Watch the video](https://img.youtube.com/vi/axcUSnMWTvM/maxresdefault.jpg)](https://youtu.be/axcUSnMWTvM)
